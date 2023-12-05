@@ -19,8 +19,9 @@ O projeto demonstra conceitos-chave, como a comunicação entre telas, a manipul
 - Personalização da aparência das células de tabela.
 - Uso de protocolos para comunicação entre telas.
 
+https://github.com/diegofgl/StudyAppList/assets/122054408/bf7bcac3-fc80-4942-a6d8-d37958165120
 
-![ezgif com-video-to-gif (1)](https://github.com/diegofgl/StudyAppList/assets/122054408/e53c58aa-7492-479e-863f-1da7f244af8a)
+
 
 
 
